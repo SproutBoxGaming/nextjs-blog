@@ -1,20 +1,29 @@
 ---
-title: Dynamic Routing and Static Generation
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Praesent elementum
-  facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan
-  sit amet nulla facilities morbi tempus.
+title: Enlisted Guide
+excerpt: "Top tips for Enlisted "
 coverImage: /assets/blog/dynamic-routing/cover.jpg
 date: 2020-03-16T05:35:00.000Z
 author:
-  name: JJ Kasper
-  picture: /assets/blog/authors/jj.jpeg
+  name: SproutBox Gaming
 ogImage:
-  url: /assets/blog/dynamic-routing/cover.jpg
+  url: /assets/Hell-feature.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Guide for enlisted test this is the article main body
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Header 2
+
+*   Point 1
+    
+*   Engineer hammer
+    
+*   Barbed wire
+    
+*   Pinging system
+    
+
+![](/assets/Hell-feature.jpg)
+
+m ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
 ## Lorem Ipsum
 
