@@ -11,3 +11,4 @@ permalink: /guides/
 Welcome to the Guides section.
 
 
+- [Enlisted Guide Testing](/guides/Enlisted-guide-testing/)
