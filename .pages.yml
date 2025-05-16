@@ -26,3 +26,15 @@ content:
         fields:
           - { name: url, label: URL, type: image }
       - { name: body, label: Body, type: rich-text }
+
+      collections:
+  guides:
+    label: Guides
+    folder: guides
+    create: true
+    format: markdown
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Permalink", name: "permalink", widget: "string", default: "/guides/{{slug}}/" }
