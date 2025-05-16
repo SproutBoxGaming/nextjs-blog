@@ -1,7 +1,7 @@
 ---
 title: Enlisted Guide
 excerpt: "Top tips for Enlisted "
-coverImage: /assets/blog/dynamic-routing/cover.jpg
+coverImage: /assets/Hell-feature-1.jpg
 date: 2020-03-16T05:35:00.000Z
 author:
   name: SproutBox Gaming
