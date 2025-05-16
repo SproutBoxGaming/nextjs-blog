@@ -7,7 +7,6 @@ author:
   name: SproutBox Gaming
 ogImage:
   url: /assets/Hell-feature.jpg
-  permalink: /guides/Enlisted guide testing.md/
 ---
 Guide for enlisted test this is the article main body
 
